@@ -43,9 +43,8 @@ body {
     transform: scale(1.07);
     transition: all .5s ease;
 }
-.card {
-    max-width: 250px;
-}
+/* .card {
+    max-width: 250px;} */
 
 .fa-solid:hover{
     cursor: pointer;
@@ -66,4 +65,9 @@ body {
 
 .fa-linkedin{
     color:#007BFF;
+}
+
+.last-button{
+    display: flex;
+    justify-content: center;
 }
